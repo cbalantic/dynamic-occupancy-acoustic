@@ -5,7 +5,7 @@ This Github repository exists in service of open science, to reproduce the analy
 Balantic, C. M., & Donovan, T. M. (2019).
 Dynamic wildlife occupancy models using automated acoustic monitoring data. Ecological Applications. https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/eap.1854
 
-Repository code contained here is identical to the code contained in the Data S1 supplement of the paper. Because Github is not designed for file storage and some of the data files exceed Github's upload limits, files in the "Data" folder listed below are not available on Github and can be obtained from the paper supplement here: [Data S1 supplement](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Feap.1854&file=eap1854-sup-0004-DataS1.zip) (OPENS AS A ZIP FOLDER). Note that you can reproduce the .RDS files in the "Data" folder by running the scripts, but the .RDS files are provided in case you wish to skip this step and dig into the code itself.   
+Repository code contained here is identical to the code contained in the Data S1 supplement of the paper. Because Github is not designed for file storage and some of the data files exceed Github's upload limits, files in the "Data" folder listed below are not available on Github and can be obtained from the paper supplement here: [Data S1 supplement](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Feap.1854&file=eap1854-sup-0004-DataS1.zip) (WARNING: clicking this link will download a zip folder of the supplement). Note that you can reproduce the .RDS files in the "Data" folder by running the scripts, but the .RDS files are provided in case you wish to skip this step and dig into the code itself.   
 
 **Content List:**
 
